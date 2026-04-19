@@ -2,6 +2,8 @@
 
 https://www.youtube.com/@FreelancerLifeStyle - YouTube - канал
 
+https://www.youtube.com/live/QYtEk1iqYP0?si=TKMYxyxDgOTHLeXP - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA.
+
 https://www.youtube.com/live/QYtEk1iqYP0?si=NNbQgeXgb_oHC4Ie&t=5405 - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA. (Продолжение)
 
 # Макет в Figma
